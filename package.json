@@ -1,0 +1,25 @@
+{
+  "name": "expserver",
+  "version": "1.0.0",
+  "description": "express server",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/%3Cpotman69%3E/%3Crepository%3E.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "anton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/%3Cpotman69%3E/%3Crepository%3E/issues"
+  },
+  "homepage": "https://github.com/%3Cpotman69%3E/%3Crepository%3E#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
